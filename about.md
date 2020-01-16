@@ -8,8 +8,8 @@ This page is all about me and would contain bio information, maybe a resume and 
 
 For example, I like to:
 
-* Do this thing.
-* And go to these places: a, b, c.
+* Read and travel.
+* And go to different places.
 * My hobbies also include this.
 * And so on...
 
