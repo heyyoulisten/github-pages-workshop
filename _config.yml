@@ -1,7 +1,7 @@
 name: Yang's Site
 owner: Yang
 
-baseurl: "/github-pages-workshop" # the base url of your site
+baseurl: "/yyoung" # the base url of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title
 

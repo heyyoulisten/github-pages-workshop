@@ -9,7 +9,7 @@ Project 6 is a Raspberry Pi Powered Weather Station, coded in Python.
 
 ## If you don't want to look out of the window, this app is for you
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis.
+
 
 * Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est.
 * Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem.

@@ -9,7 +9,7 @@ Project 2 was a **real challenge**, working with a **large team**.
 
 ## Collaborating with Strong Personalities
 
-Lorem ipsum dolor amet selfies migas taiyaki hexagon mlkshk banh mi kombucha schlitz tousled beard meditation cornhole. Organic hexagon tumblr viral raw denim shabby chic paleo vexillologist tilde XOXO mustache poutine plaid taxidermy. Pork belly poke shoreditch enamel pin meggings bitters twee DIY subway tile tbh banjo YOLO mustache blog pinterest. Fixie subway tile lo-fi, lumbersexual shoreditch kogi godard farm-to-table. Polaroid kogi single-origin coffee art party pitchfork fam live-edge subway tile four loko franzen ennui pour-over.
+
 
 **Hot chicken DIY meditation:**
 

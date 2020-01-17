@@ -8,11 +8,11 @@ This page is all about me and would contain bio information, maybe a resume and 
 
 For example, I like to:
 
-* Read and travel.
+* Read and cook.
 * And go to different places.
 * My hobbies also include eating gourmet.
 * And sleep...
 
-My dream is to travel the world.
+My dream is to travel the world with my lovely husband.
 
 

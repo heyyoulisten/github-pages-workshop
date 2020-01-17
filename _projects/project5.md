@@ -9,7 +9,7 @@ Project 5 is an ongoing API project using Node.js.
 
 ## This is my favourite project for a number of reasons
 
-Lorem ipsum dolor amet stumptown biodiesel YOLO church-key fixie iceland microdosing cornhole coloring book four loko hell of.
+
 
 1. Gastropub retro bushwick hammock pitchfork yuccie godard shabby chic crucifix la croix vinyl lumbersexual.
 2. Hashtag typewriter dreamcatcher kickstarter ennui lumbersexual.

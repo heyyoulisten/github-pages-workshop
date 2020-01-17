@@ -7,7 +7,7 @@ categories: [arduino, c, iot]
 ---
 Project 3 saw me working with microcontrollers and a soldering iron!
 
-Lorem ipsum dolor amet cray intelligentsia flannel vinyl migas, poke put a bird on it kinfolk. Fanny pack mumblecore man braid, hexagon pitchfork coloring book offal lo-fi taxidermy af godard jianbing pour-over williamsburg. Kinfolk offal snackwave pabst. Beard craft beer selvage celiac. Four loko post-ironic chambray etsy man bun. Man braid ethical VHS distillery marfa irony you probably haven't heard of them.
+
 
 ## Hard Coding Hardware!
 

@@ -1,13 +1,13 @@
 ---
 layout: blogpost
-title: Blogging in November
-subtitle: Thanksgiving and stuff.
-date: 2019-11-30 20:45:23 -0800
+title: Blogging in July
+subtitle: Italy and stuff.
+date: 2019-07-01 11:45:23 -0800
 main_image: /assets/images/blog3.jpg
 author: Me
 categories: [life, food]
 ---
-Lorem ipsum dolor amet austin cardigan green juice authentic poutine enamel pin, shabby chic seitan bushwick. Kogi taxidermy post-ironic you probably haven't heard of them photo booth lomo. Fashion axe retro kinfolk you probably haven't heard of them jianbing, typewriter venmo poutine jean shorts ennui semiotics helvetica literally. Post-ironic iceland pour-over cred slow-carb. Air plant hot chicken vaporware, pop-up messenger bag biodiesel enamel pin readymade 90's forage meggings lo-fi chicharrones. Single-origin coffee skateboard adaptogen banjo cardigan pour-over. Cardigan poutine fingerstache sartorial you probably haven't heard of them crucifix stumptown hella master cleanse cred yuccie schlitz chicharrones forage.
+Incredible architectures and history.
 
 ## Cooking the Turkey
 

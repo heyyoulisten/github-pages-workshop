@@ -7,7 +7,7 @@ main_image: /assets/images/blog6.jpg
 author: Me
 categories: [life, travel]
 ---
-**Lorem ipsum** dolor amet hoodie photo booth *craft beer* raw denim mixtape cold-pressed. Kickstarter tattooed tilde pinterest, disrupt marfa prism echo park. Taiyaki slow-carb kitsch typewriter palo santo bicycle rights etsy vinyl godard keffiyeh farm-to-table distillery. Quinoa salvia af, brooklyn +1 woke kogi offal poutine slow-carb iPhone. Actually photo booth craft beer PBR&B art party ramps brunch palo santo sustainable four loko.
+**Paris** France is a relaxing and lazy country.
 
 ## Day One
 
@@ -16,7 +16,7 @@ categories: [life, travel]
 * Kickstarter man bun.
 * Portland etsy tumblr tousled.
 
-Taxidermy flannel keytar hammock four dollar toast selfies ugh try-hard semiotics. Chia meh pug chambray, flexitarian chicharrones mustache craft beer keytar vinyl raw denim. Hella aesthetic XOXO yuccie paleo pinterest portland truffaut vaporware. Yuccie truffaut normcore enamel pin narwhal, kinfolk kickstarter scenester occupy gluten-free man braid readymade you probably haven't heard of them skateboard. Put a bird on it butcher austin wolf chambray, fanny pack sriracha tousled normcore hot chicken neutra cloud bread air plant. Venmo farm-to-table pour-over celiac pok pok, health goth ethical woke cornhole blog swag selfies tote bag.
+
 
 ## Day Two
 

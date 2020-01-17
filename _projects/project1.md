@@ -9,7 +9,7 @@ Project 1 was a **really good project** that I put a **lot** of work into.
 
 ## Overview
 
-Lorem ipsum dolor amet fingerstache pop-up distillery affogato iPhone pitchfork. Whatever paleo raw denim, humblebrag lumbersexual scenester shoreditch street art fixie listicle cornhole palo santo DIY. Salvia 8-bit shaman snackwave green juice, photo booth put a bird on it vape lumbersexual taiyaki messenger bag semiotics mlkshk ethical. Copper mug hammock portland microdosing gochujang tumeric vaporware. Retro 8-bit fingerstache, fashion axe unicorn sartorial sriracha tilde echo park direct trade edison bulb asymmetrical four loko chia thundercats. Kitsch jianbing everyday carry normcore. Thundercats prism DIY truffaut.
+I went to WWC and learned how to build my personal website with GitHub.
 
 ## Learning Node.js
 

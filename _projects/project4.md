@@ -9,7 +9,7 @@ Project 4 is super hipster as I got to do some machine learning in Erlang.
 
 ## What I coded in the local coffee shop!
 
-Lorem ipsum dolor amet farm-to-table sartorial direct trade, humblebrag actually unicorn twee yuccie four loko waistcoat kogi master cleanse thundercats health goth distillery. Subway tile vice pabst jean shorts succulents tattooed squid green juice meh snackwave knausgaard. Trust fund pitchfork irony helvetica, yr fixie forage leggings wayfarers coloring book. Hammock DIY enamel pin offal tbh subway tile kinfolk man braid. Swag whatever chambray portland, tousled pork belly roof party. Godard truffaut pour-over hell of polaroid. Helvetica art party activated charcoal, af cornhole tumeric man bun brunch pitchfork.
+
 
 - Edison bulb you probably haven't heard of them mustache YOLO pabst.
 - Seitan tbh lo-fi, lyft wayfarers tote bag 90's portland keytar activated charcoal cold-pressed offal direct trade 3 wolf moon retro.
