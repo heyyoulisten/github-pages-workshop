@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title:  This is a blog post
-subtitle: An example blog post for my trip in Europe.
+subtitle: A blog post for my trip in Europe.
 date: 2019-07-07 10:14:43 -0800
 main_image: /assets/images/blog1.jpg
 author: Me
